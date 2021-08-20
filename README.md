@@ -2,8 +2,9 @@
 <h3 align="center">A FullStack Web Developer</h3>
 <img src="assets/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg"/>
 <hr/>
-<p><i>- I'm a 17 years old teenager who likes to learn. <img align="right" src="assets/Screenshot_20210820-073955-1.jpg"/></p>
-<p>- I enjoy working in a <b>team</b> and working on big projects.
+<p><img align="right" src="assets/Screenshot_20210820-073955-1.jpg"/></p>
+<p><i>- I'm a 17 years old teenager who likes to learn.
+<br/>- I enjoy working in a <b>team</b> and working on big projects.
 <br/>- I'm currently working at <b>NoobyMC</b>.
 <br/>- I'm a beginner in <b>Marketing</b> and <b>Communications</b>.
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
