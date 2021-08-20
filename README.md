@@ -2,10 +2,10 @@
 <h3 align="center">A FullStack Web Developer</h3>
 <hr/>
 <p>- I'm a 17 years old teenager who likes to learn.
-<br/>- I enjoy working in a team and working on big projects.
-<br/>- I'm currently working at NoobyMC.
-<br/>- I'm a beginner in Marketing and Communications.
-<br/>- I enjoy creating solutions to problems that arise.
+<br/>- I enjoy working in a <b>team</b> and working on big projects.
+<br/>- I'm currently working at <b>NoobyMC</b>.
+<br/>- I'm a beginner in <b>Marketing</b> and <b>Communications</b>.
+<br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </p>
 <h3 align="left">Social networks</h3>
 <p align="left">
