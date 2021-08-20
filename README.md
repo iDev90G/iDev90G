@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p>
 <h6 align="left">Contact Me</h6>
-<p>Send your message to me <a href="ifail90contact@gmail.com">Gmail</a>
+<p><big>Send your message to me</big></p>
 <h5 align="left">ifail90contact@gmail.com</h5>
