@@ -19,8 +19,8 @@
 
 <h3><i>In process...</i></h3>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /></p>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /></p><br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p>
 <hr/><h4 align="left">Contact Me</h4>
 <p><h6>Send your message to</h6></p>
