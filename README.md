@@ -7,7 +7,7 @@
 <br/>- I'm currently working at <b>NoobyMC</b>.
 <br/>- I'm a beginner in <b>Marketing</b> and <b>Communications</b>.
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
-</p>
+</p><img src="assets/Screenshot_20210820-073955-1.jpg"/><hr/>
 <h3 align="left">Social networks</h3>
 <p align="left">
 <a href="https://twitter.com/iFail90G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="if90g" height="30" width="40" /></a>
