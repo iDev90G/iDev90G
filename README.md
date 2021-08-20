@@ -20,7 +20,7 @@
 
 <h3><i>In process...</i></h3>
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /><img align="center" src="assets/github.png" width="250" height="250"/></p>
+<hr/><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /><img align="center" src="assets/github.png" width="250" height="250"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p>
 <hr/>
