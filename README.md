@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Abraham</h1>
 <h3 align="center">A FullStack Web Developer</h3>
-<img src="assets/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg"/>
+<img src="assets/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
 <hr/>
 <img align="right" src="assets/Screenshot_20210820-073955-1.jpg" width="260" height="253"/>
 <p><i>- I'm a 17 years old teenager who likes to learn.
@@ -20,10 +20,10 @@
 
 <h3><i>In process...</i></h3>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p>
 <hr/>
-<br/><h4 align="left">Contact Me</h4>
+<h4 align="left">Contact Me</h4>
 <p><h6>Send your message to</h6></p>
 <h5 align="left">ifail90contact@gmail.com</h5>
