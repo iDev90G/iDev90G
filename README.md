@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Abraham</h1>
 <h3 align="center">A FullStack Web Developer</h3>
 <hr/>
+<img src="assets/web-development-coding-concept-banner-260nw-1955634814-1.jpg"/>
 <p>- I'm a 17 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
 <br/>- I'm currently working at <b>NoobyMC</b>.
