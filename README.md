@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Web Developer</h3>
 <img src="media/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
 <hr/>
-<img align="right" src="media/amazon-developer-tools.png" width="210" height="285"/>
+<img align="right" src="media/amazon-developer-tools.png" width="210" height="275"/>
 
 <p><i>- I'm a 17 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
