@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Abraham</h1>
 <h3 align="center">A FullStack Web Developer</h3>
-<img src="assets/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
+<img src="media/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
 <hr/>
-<img align="right" src="assets/Screenshot_20210820-073955-1-1.jpg" width="210" height="225"/>
+<img align="right" src="media/amazon-developer-tools.png" width="210" height="225"/>
 <p><i>- I'm a 17 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
 <br/>- I'm currently working at <b>NoobyMC</b>.
@@ -20,7 +20,7 @@
 
 <h3><i>In process...</i></h3>
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /><img align="center" src="assets/github.png" width="250" height="250"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /><img align="center" src="media/github.png" width="250" height="250"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p>
 <hr/>
