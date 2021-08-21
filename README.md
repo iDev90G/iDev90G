@@ -22,7 +22,7 @@
 <h3><i>•In process...</i></h3>
 <hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifail90&show_icons=true&locale=en" alt="ifail90" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /><img align="right" src="media/github.png" width="255" height="245"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifail90&show_icons=true&locale=en&layout=compact" alt="ifail90" /><img align="right" src="media/github.png" width="235" height="235"/></p>
 
 <hr/>
 <h4 align="left">Contact Me</h4>
