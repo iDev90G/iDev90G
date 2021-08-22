@@ -4,7 +4,7 @@
 <hr/>
 <img align="right" src="media/amazon-developer-tools.png" width="210" height="268"/>
 
-<p><i>- I'm a 17 years old teenager who likes to learn.
+<p><i>- I'm a 15 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
 <br/>- I'm currently working at <b>NoobyMC</b>.
 <br/>- I'm a beginner in <b>Marketing</b> and <b>Communications</b>.
