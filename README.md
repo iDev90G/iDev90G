@@ -20,8 +20,8 @@
 <h1>My portfolio</h1>
 <h3><i>•In process...</i></h3>
 <hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idev90g&show_icons=true&locale=en" alt="iDev90G" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idev90g&show_icons=true&locale=en&layout=compact" alt="iDev90G" /><img align="right" src="media/github.png" width="235" height="235"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idev90g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idev90g&show_icons=true&bg_color=151515&text_color=9f9f9f&title_color=fff&locale=en" alt="iDev90G" /><img align="right" src="media/github.png" width="235" height="235"/></p>
 
 <hr/>
 <h4 align="left">Contact Me</h4>
