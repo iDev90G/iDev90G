@@ -26,4 +26,4 @@
 <hr/>
 <h4 align="left">Contact Me</h4>
 <p><h6>Send your message to</h6></p>
-<a href="mailto:ifail90contact@gmail.com?Subject=Tu%20Asunto%20Aquí"<h5 align="left">ifail90contact@gmail.com</h5>
+<a href="mailto:ifail90contact@gmail.com?Subject:Tu%20Asunto%20Aquí"<h5 align="left">ifail90contact@gmail.com</h5>
