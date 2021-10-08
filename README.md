@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Abraham</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Abraham</h1>
 <h3 align="center">A Jr FullStack Web Developer</h3>
 <img src="media/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
 <hr/>
@@ -21,7 +21,7 @@
 <h3><i>•In process...</i></h3>
 <hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idev90g&show_icons=true&title_color=fff&icon_color=1e85e0&text_color=9f9f9f&bg_color=151515&locale=en"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idev90g&show_icons=true&bg_color=151515&text_color=9f9f9f&title_color=fff&locale=en" alt="iDev90G" /><img align="right" src="media/github.png" width="235" height="235"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idev90g&show_icons=true&bg_color=151515&text_color=9f9f9f&title_color=fff&locale=en&layout=compact" alt="iDev90G" /><img align="right" src="media/github.png" width="235" height="235"/></p>
 
 <hr/>
 <h4 align="left">Contact Me</h4>
