@@ -22,13 +22,13 @@
 </p>
 <hr/><h3 align="left">My knowledge</h3>
 
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)<br/>
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BootsTrap-563D7E?style=for-the-badge&logo=bootstrap&logoColor=white)<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)<br/>
 ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-
 <h1>My portfolio</h1>
 <h3><i>•In process...</i></h3>
 <hr/>
