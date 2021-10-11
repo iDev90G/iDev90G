@@ -22,8 +22,8 @@
 </p>
 <hr><h3 align="left">Tools</h3>
 
-![VisualStudioCode](https://img.shields.io/badge/VSCode-563D7E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-563D7E?style=for-the-badge&logo=git&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
 <hr/><h3 align="left">My knowledge</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)<br/>
