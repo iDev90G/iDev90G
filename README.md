@@ -12,13 +12,17 @@
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
 <p align="left">
-<a href="https://twitter.com/iFail90G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="if90g" height="30" width="40" /></a>
+<a href="https://twitter.com/iFail90G" target="blank">
+
+![Twitter](https://img.shields.io/badge/Twitter-2175F5?style=for-the-badge&logo=twitter&logoColor=white)
+
+</a>
 <a href="https://dsc.gg/noobymc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="if90g" height="35" width="45" /></a>
 </p>
 <hr/><h3 align="left">My knowledge</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-FF5521?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2175F5?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0136AF?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <h1>My portfolio</h1>
 <h3><i>•In process...</i></h3>
