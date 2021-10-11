@@ -14,10 +14,11 @@
 <p align="left">
 <a href="https://twitter.com/iFail90G" target="blank">
 
-![Twitter](https://img.shields.io/badge/Twitter-2175F5?style=for-the-badge&logo=twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-2175F5?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://dsc.gg/noobymc" target="blank">
 
+![Discord](https://img.shields.io/badge/Discord-434683?style=for-the-badge&logo=discord&logoColor=white)
 </a>
-<a href="https://dsc.gg/noobymc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="if90g" height="35" width="45" /></a>
 </p>
 <hr/><h3 align="left">My knowledge</h3>
 
