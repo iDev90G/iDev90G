@@ -25,8 +25,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)<br/>
 ![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-563D7E?style=for-the-badge&logo=googlechrome&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-563D7E?style=for-the-badge&logo=wordpress&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-1DA462?style=for-the-badge&logo=googlechrome&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=wordpress&logoColor=white)
 <hr/><h3 align="left">My knowledge</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)<br/>
@@ -48,5 +48,5 @@
 <p><h6>Send your message to</h6></p>
 <a href="mailto:ifail90contact@gmail.com?subject=Tu Asunto Aquí">
 
-![Gmail](https://img.shields.io/badge/Gmail-563D7E?style=for-the-badge&logo=gmail&logoColor=white)
-</a><br/>
+![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
