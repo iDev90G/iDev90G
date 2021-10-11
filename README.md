@@ -23,7 +23,7 @@
 <hr><h3 align="left">Tools</h3>
 
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![SublimeText](https://img.shields.io/badge/SublimeText-563D7E?style=for-the-badge&logo=sublimetext&logoColor=white)
+![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
 <hr/><h3 align="left">My knowledge</h3>
 
