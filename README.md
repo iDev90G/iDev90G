@@ -7,7 +7,7 @@
 <p><i>- I'm a 17 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
 <br/>- I'm currently working at <b>NoobyMC</b>.
-<br/>- I'm a beginner in <b>Marketing</b> and <b>Communications</b>.
+<br/>- I'm studying <b>electrical engineering</b> and <b>digital marketing</b>.
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
