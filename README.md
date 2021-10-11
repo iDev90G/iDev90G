@@ -27,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/PHP-044F88?style=for-the-badge&logo=c++&logoColor=white)
 
 <h1>My portfolio</h1>
 <h3><i>•In process...</i></h3>
