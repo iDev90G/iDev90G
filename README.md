@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/iFail90G" target="blank">
 
-![Twitter](https://img.shields.io/badge/Twitter-2175F5?style=for-the-badge&logo=twitter&logoColor=white)</a>
+![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://dsc.gg/noobymc" target="blank">
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
