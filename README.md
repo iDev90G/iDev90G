@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-1DA462?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=wordpress&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010-7fba00?style=for-the-badge&logo=windows&logoColor=white)
 <hr/><h3 align="left">My knowledge</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)<br/>
