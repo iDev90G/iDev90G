@@ -45,7 +45,7 @@
 <hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idev90g&show_icons=true&title_color=00e7ff&icon_color=fff&text_color=00e7ff&border_color=151515&bg_color=151515&locale=en"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idev90g&show_icons=true&bg_color=151515&text_color=9f9f9f&title_color=fff&border_color=151515&locale=en&layout=compact" alt="iDev90G" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iDev90G&theme=black-ice&border=151515"/><img aling="right" src="media/github.png" width=300px height=300px/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iDev90G&theme=black-ice&border=151515"/></p>
 
 
 <hr/>
