@@ -19,6 +19,9 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft%20BE-477A1E?style=for-the-badge&logo=minecraft&logoColor=white)
 </a>
+<a href="#" target="blank">
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+</a>
 </p>
 <hr><h3 align="left">Tools</h3>
 
@@ -55,3 +58,8 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
+<h4 align="left">Donate me</h4>
+<p><h6>Send your collaboration here</h6></p>
+<a href="paypal.me/iF90G">
+
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
