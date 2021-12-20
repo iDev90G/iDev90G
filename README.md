@@ -60,7 +60,7 @@
 </a>
 <h4 align="left">Donate me</h4>
 <p><h6>Send your collaboration here</h6></p>
-<a href="paypal.me/iF90G">
+<a href="https://paypal.me/iF90G">
 
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 </a>
