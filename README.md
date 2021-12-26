@@ -4,7 +4,7 @@
 <hr/>
 <img align="right" src="media/promo-figure-alt.svg" width="210" height="275"/>
 
-<p><i>- I'm a 17 years old teenager who likes to learn.
+<p><i>- I'm a 18 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
 <br/>- I'm currently working at <b>NoobyMC</b>.
 <br/>- I'm studying <b>electrical engineering</b>, <b>systems engineering</b> and <b>digital marketing</b>.
