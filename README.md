@@ -12,7 +12,7 @@
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
 <p align="left">
-<a href="https://twitter.com/iFail90G" target="blank">
+<a href="https://twitter.com/NoobyPE" target="blank">
 
 ![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://dsc.gg/noobymc" target="blank">
