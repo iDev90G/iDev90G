@@ -42,7 +42,10 @@
 ![Node JS](https://img.shields.io/badge/Node%20JS-68A063?style=for-the-badge&logo=node.js&logoColor=white)<br/>
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)<br/>
-![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2b%2b&logoColor=white) <br/>
+![MySQL](https://img.shields.io/badge/MySql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Maria%20DB-896B60?style=for-the-badge&logo=mariadb&logoColor=white)
+![SqLite](https://img.shields.io/badge/SQLite-0077B6?style=for-the-badge&logo=sqlite&logoColor=white)
 <h1>My portfolio</h1>
 <h3><i>•In process...</i></h3>
 <hr/>
