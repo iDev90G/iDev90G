@@ -6,7 +6,6 @@
 
 <p><i>- I'm a 18 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
-<br/>- I'm currently working at <b>NoobyMC</b>.
 <br/>- I'm studying <b>electrical engineering</b>, <b>systems engineering</b> and <b>digital marketing</b>.
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </i></p><hr/>
@@ -15,13 +14,7 @@
 <a href="https://twitter.com/iFail90G" target="blank">
 
 ![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="https://dsc.gg/noobymc" target="blank">
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft%20BE-477A1E?style=for-the-badge&logo=minecraft&logoColor=white)
-</a>
-<a href="#" target="blank">
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-</a>
+
 </p>
 <hr><h3 align="left">Tools</h3>
 
