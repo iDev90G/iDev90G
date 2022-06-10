@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Abraham</h1>
-<h3 align="center">A Jr FullStack Web Developer</h3>
+<h1 align="center">Hey, I'm Abraham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A Senior FullStack Web Developer</h3>
 <img src="media/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
 <hr/>
 <img align="right" src="media/promo-figure-alt.svg" width="210" height="275"/>
