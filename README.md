@@ -50,10 +50,7 @@
 <hr/>
 <h4 align="left">Contact Me</h4>
 <p><h6>Send your message to</h6></p>
-<a href="https://instagram.com/justdeviii_/">
 
-![MariaDB](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)
-</a>
 <a href="mailto:ifail90contact@gmail.com?subject=Tu Asunto Aquí">
 
 ![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)
