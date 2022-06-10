@@ -10,12 +10,13 @@
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
-<p align="left">
 <a href="https://twitter.com/iFail90G" target="blank">
 
 ![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://instagram.com/justdeviii_/">
 
-</p>
+![MariaDB](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)
+</a>
 <hr><h3 align="left">Tools</h3>
 
 ![Windows](https://img.shields.io/badge/Windows%2010-7fba00?style=for-the-badge&logo=windows&logoColor=white)
