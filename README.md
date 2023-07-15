@@ -12,7 +12,8 @@
 <h3 align="left">Social networks</h3>
 <a href="https://twitter.com/KiddKeo95Flames" target="blank">
 
-![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)</a>
+![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)
+</a>
 <a href="https://instagram.com/justdeviii_/">
 
 ![MariaDB](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)
