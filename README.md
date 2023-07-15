@@ -6,11 +6,11 @@
 
 <p><i>- I'm a 18 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
-<br/>- I'm studying <b>electrical engineering</b>, <b>systems engineering</b> and <b>digital marketing</b>.
+<br/>- I'm studying <b>mechanical engineering</b>, <b>systems engineering</b> and <b>digital marketing</b>.
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
-<a href="https://twitter.com/iFail90G" target="blank">
+<a href="https://twitter.com/KiddKeo95Flames" target="blank">
 
 ![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://instagram.com/justdeviii_/">
