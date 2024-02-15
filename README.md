@@ -62,6 +62,3 @@
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 </a>
-<a href="Paypal.me/iF90G">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
