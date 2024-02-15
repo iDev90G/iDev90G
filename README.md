@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Abraham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A Senior FullStack Web Developer</h3>
+<h3 align="center">FullStack Web Developer</h3>
 <img src="media/web-development-coding-concept-banner-260nw-1955634814-1-1.jpg" width="2000"/>
 <hr/>
 <img align="right" src="media/promo-figure-alt.svg" width="210" height="275"/>
@@ -10,12 +10,12 @@
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
+
 <a href="https://twitter.com/KiddKeo95Flames" target="blank">
 
 ![Twitter](https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white)
 </a>
-<a href="https://instagram.com/justdeviii_/">
-
+<a href="https://instagram.com/justdeviii_/" target="blank">
 ![MariaDB](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
 <hr><h3 align="left">Tools</h3>
@@ -41,25 +41,27 @@
 ![MySQL](https://img.shields.io/badge/MySql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/Maria%20DB-896B60?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SqLite](https://img.shields.io/badge/SQLite-0077B6?style=for-the-badge&logo=sqlite&logoColor=white)
-<h1>My portfolio</h1>
-<h3><i>•In process...</i></h3>
 <hr/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idev90g&show_icons=true&title_color=00e7ff&icon_color=fff&text_color=00e7ff&border_color=151515&bg_color=151515&locale=en"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idev90g&show_icons=true&bg_color=151515&text_color=9f9f9f&title_color=fff&border_color=151515&locale=en&layout=compact" alt="iDev90G" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iDev90G&theme=black-ice&border=151515"/></p>
-
-
 <hr/>
 <h4 align="left">Contact Me</h4>
 <p><h6>Send your message to</h6></p>
 
 <a href="mailto:ifail90contact@gmail.com?subject=Tu Asunto Aquí">
-
+  
 ![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
-<h4 align="left">Donate me</h4>
-<p><h6>Send your collaboration here</h6></p>
-<a href="https://paypal.me/iF90G">
 
+<h4 align="left">Donate me</h4>
+<p><h6>Send your collaboration here</h6></p> 
+<a href="https://paypal.me/iF90G">
+  
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+</a>
+<a href="Paypal.me/iF90G">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
