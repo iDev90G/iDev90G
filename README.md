@@ -6,7 +6,7 @@
 
 <p><i>- I'm a 18 years old teenager who likes to learn.
 <br/>- I enjoy working in a <b>team</b> and working on big projects.
-<br/>- I'm studying <b>mechanical engineering</b>, <b>systems engineering</b> and <b>digital marketing</b>.
+<br/>- I'm studying, <b>systems engineering</b> and <b>digital marketing</b>.
 <br/>- I enjoy creating <b>solutions</b> to problems that arise.
 </i></p><hr/>
 <h3 align="left">Social networks</h3>
